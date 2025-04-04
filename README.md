@@ -43,7 +43,7 @@ A comprehensive MySQL-based hospital management system designed for **Green Vall
 4. Review and modify queries or test custom requests using provided schema
 
 ```bash
-git clone https://github.com/yourusername/GreenValleysHospital.git
+git clone https://github.com/JTasnim/Green-Valleys-Hospital-Database-Design.git
 ```
 
 ## 🔍 Example Query
